@@ -1,10 +1,10 @@
 # dependencies
 node_modules/
 
-# env files
+# env
 .env
 
-# builds
+# build output
 dist/
 build/
 
@@ -16,4 +16,3 @@ pnpm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
-
